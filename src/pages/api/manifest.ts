@@ -36,7 +36,7 @@ export default createManifestHandler({
         "MANAGE_CHECKOUTS",
         "HANDLE_CHECKOUTS",
       ],
-      id: "create.order.from.checkout.app.testing",
+      id: "create.order.from.checkout.app",
       version: packageJson.version,
       /**
        * Configure webhooks here. They will be created in Saleor during installation
